@@ -5,6 +5,6 @@
     "lerna": "^3.18.1"
   },
   "dependencies": {
-    "cote": "^0.21.1"
+    "cote": "^1.0.3"
   }
 }
